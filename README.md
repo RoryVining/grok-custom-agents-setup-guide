@@ -6,7 +6,7 @@ Custom agents became available on March 4 2026. They let you build up to four sp
 
 ## Why Expert Mode Matters
 
-Grok Beta 4.3 (and earlier beta toggles) does not reliably surface custom agents. Many users reported that agents created in Settings simply did not respond when addressed by name, even with the beta flag enabled. Switching to Expert mode fixes this.
+Grok Beta 4.3 (and earlier beta toggles) currently **11/5/26** did not reliably surface custom agents. Many users reported that agents created in Settings simply did not respond when addressed by name, even with the beta flag enabled. Switching to Expert mode fixes this.
 
 I tested this myself in the current session:
 - Started in Grok Beta 4.3 → addressing "Sandy" produced no agent-specific response.
