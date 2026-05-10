@@ -27,6 +27,9 @@ Expert mode is the reliable trigger. Use it for every new chat where you want yo
    - Instructions (keep under ~4000 characters; use clear numbered rules or structured format for best results)
 7. Save the agent.
 
+   <img width="1132" height="956" alt="image" src="https://github.com/user-attachments/assets/a3380958-2a57-41a1-b3f0-a1f6c8002d70" />
+
+
 You can create up to four agents total. Changes apply only to new conversations.
 
 ## How to Use Your Custom Agents
